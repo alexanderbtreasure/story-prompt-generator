@@ -1,3 +1,7 @@
+# Program-specific files
+example.json
+package-lock.json
+
 # Logs
 logs
 *.log

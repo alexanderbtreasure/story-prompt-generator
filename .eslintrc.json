@@ -1,0 +1,10 @@
+{
+    "parserOptions": {
+        "ecmaVersion": 9
+    },
+    "rules": {
+        "semi": "warn",
+        "quotes": ["warn", "single", {"avoidEscape": true}],
+        "quote-props": ["warn", "as-needed"]
+    }
+}
